@@ -2,4 +2,5 @@ from django.db import models
 
 # Create your models here.
 class Post(models.Model):
-    title_lagom = models.TextField()
+    title_selinayoon = models.TextField()
+
